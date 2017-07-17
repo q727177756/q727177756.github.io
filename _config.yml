@@ -1,1 +1,5 @@
 theme: jekyll-theme-time-machine
+git config --global user.name "liuxiaojun"
+git config --global user.email "liuxiaojun215126@qq.com"
+
+
